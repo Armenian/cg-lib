@@ -1,0 +1,2 @@
+abstract public function & foo();
+
